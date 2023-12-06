@@ -16,6 +16,11 @@ The 4 members that are elected from the current governance board will have a one
 
 In alphabetical order:
 
+### Chetan Kapoor
+- Company: eBay
+- GitHub: [chetankapoor1](https://github.com/chetankapoor1)
+- Description: TBD
+
 ### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
